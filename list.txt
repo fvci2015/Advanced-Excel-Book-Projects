@@ -1,0 +1,14 @@
+Add ins in excel
+-Chatgpt for excel
+-people graph (we can use them dashboard where we have data related to people)
+-analyze data option beside the add ins on home tab
+-Forecast data in data tab
+-mini calendar & date picker
+-vertex 42 template gallery
+-change case add ins
+-remove unwanted characters
+-activity timer (to keep record of individual activity we do in excel)
+-Map Charts in insert tab
+-Gpt for Excel word
+-Bing Maps
+
